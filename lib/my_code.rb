@@ -6,5 +6,6 @@ def map(source_array)
   answer.push (yield(source_array[i]))
   i += 1 
 end 
+answer 
 end 
 
