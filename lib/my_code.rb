@@ -20,5 +20,7 @@ def reduce(source_array, starting_point=nil)
   
   while counter < source_array.length #loop over array 
   sum = yield(sum, source_array[counter]) #pass in the value of sum and add that number to next element. 
-  counter += 
+  counter += 1
+end 
+sum 
 end 
