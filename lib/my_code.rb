@@ -4,3 +4,9 @@ def map(source_array)
     num * - 1
   end 
 end 
+
+def map(source_array)
+ source_array.map do |num|
+   num 
+ end 
+ end 
