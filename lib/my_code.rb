@@ -7,6 +7,6 @@ end
 
 def map(source_array)
  source_array.map do |num|
-   num 
+   num * 2
  end 
  end 
