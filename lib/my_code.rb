@@ -9,3 +9,6 @@ end
 answer 
 end 
 
+def reduce(source_array)
+  
+end 
